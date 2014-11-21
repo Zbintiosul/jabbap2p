@@ -18,7 +18,7 @@ handlers:
   static_dir: css
 
 - url: /.*
-  script: apprtc.app
+  script: jabbap2p.app
   secure: always
 
 inbound_services:
